@@ -1,2 +1,2 @@
 # Computational-Homework
-Homework Assignments for PHY 329
+Here you can find my homework submissions
