@@ -5,3 +5,5 @@ Here you can find my homework submissions
 
 
 [Open Homework 2 Here](matrices_unsupervised_learning.ipynb)
+
+[Open Homework 3 Here](pde_turing.ipynb)
