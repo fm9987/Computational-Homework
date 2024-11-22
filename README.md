@@ -7,4 +7,4 @@ Here you can find my homework submissions
 
 [Open Homework 3 Here](pde_turing.ipynb)
 
-[Open Homework 4 Here](forecasting_regression_supervisez.ipynb)
+[Open Homework 4 Here](forecasting_regression_supervised.ipynb)
